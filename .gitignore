@@ -1,0 +1,5 @@
+.idea/
+cmd/parallel/log.txt
+cmd/parallel/parallel
+cmd/sequence/log.txt
+cmd/sequence/sequence
